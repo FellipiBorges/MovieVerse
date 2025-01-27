@@ -365,3 +365,4 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /movieverse-api/movieverse-api.csproj
+/movieverse-api/appsettings.Development.json
