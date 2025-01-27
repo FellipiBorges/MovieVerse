@@ -6,6 +6,7 @@
     <RootNamespace>movieverse_api</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <UserSecretsId>c0dc49cf-c788-40c1-a53d-7cc7c1358833</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
